@@ -79,6 +79,7 @@ edit_command_keys = {
     (ctrl, 'y'): 'edit.redo',
 
     (alt, 'v'): 'edit.clipboard-history',
+    (ctrl, 's'): 'file.save',
 }
 
 addtional_edit_command_keys = {
@@ -106,8 +107,8 @@ rerun_keys = {
 
 # search commands
 search_command_keys = {
-    (ctrl, 's'): 'search.showsearch',
-    (alt, 's'): 'search.showreplace',
+    (ctrl, 'f'): 'search.showsearch',
+    (alt, 'f'): 'search.showreplace',
     f2: 'search.prev',
     f3: 'search.next',
 }

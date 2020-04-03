@@ -71,7 +71,7 @@ class ModeBase:
     tab_width = 8
     indent_width = 4
     indent_tab = False
-    auto_indent = True
+    auto_indent = False
 
     closed = False
     theme = None

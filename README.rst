@@ -1,6 +1,8 @@
 ============================
 Kaa - console text editor
 ============================
+!!!WARNING: THIS VERSION OF KAA IS FOR ME TO DESTROY, NOT FOR YOU TO USE, DESTROY YOUR OWN COPY!!!
+
 
 Kaa is a small and easy CUI text editor for console/terminal emulator environments.
 
